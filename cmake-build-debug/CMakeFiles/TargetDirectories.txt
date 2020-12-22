@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Harley Junior/CLionProjects/lab3-comp_conc/atividade_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Harley Junior/CLionProjects/lab3-comp_conc/atividade_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Harley Junior/CLionProjects/lab3-comp_conc/atividade_2/cmake-build-debug/CMakeFiles/atividade_2.dir
